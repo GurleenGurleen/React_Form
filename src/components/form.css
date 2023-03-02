@@ -1,0 +1,19 @@
+.formCard {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    text-align: left;
+    padding: 5rem;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    margin: 4rem;
+    background-color: rgb(190, 190, 190);
+
+}
+
+.content {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    display: block;
+}
